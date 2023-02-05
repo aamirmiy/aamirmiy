@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Aamir
 - 👀 I’m interested in NLP, Multimodal learning and Geospatial stuff.
 - 🌱 I’m currently pursuing a Master's in Computer Science at USC
--     I’m looking to collaborate on research projects.
+- 👋 I’m looking to collaborate on research projects.
 - 📫 How to reach me -> miyajiwa@usc.edu
 
 <!---
